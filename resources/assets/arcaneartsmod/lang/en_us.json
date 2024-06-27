@@ -1,0 +1,24 @@
+{
+  "item.arcaneartsmod.eitr_dust": "Eitr Dust",
+  "block.arcaneartsmod.eitr_dust_block": "Block of Eitr Dust",
+  "block.arcaneartsmod.eitr_ore": "Eitr Ore",
+  "block.arcaneartsmod.deepslate_eitr_ore": "Deepslate Eitr Ore",
+  "item.arcaneartsmod.eitr_bucket": "Liquid Eitr Bucket",
+  "item.arcaneartsmod.eitr_infused_ingot": "Eitr Infused Ingot",
+  "item.arcaneartsmod.raw_silver": "Raw Silver",
+  "block.arcaneartsmod.silver_block": "Block of Silver",
+  "block.arcaneartsmod.silver_ore": "Silver Ore",
+  "block.arcaneartsmod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "item.arcaneartsmod.silver_ingot": "Silver Ingot",
+  "item.arcaneartsmod.silver_nugget": "Silver Nugget",
+  "block.arcaneartsmod.raw_silver_block": "Block of Raw Silver",
+  "block.arcaneartsmod.liquid_eitr_block": "Liquid Etir",
+  "item.arcaneartsmod.magical_weave": "Magical Weave",
+  "item.arcaneartsmod.mage_robes_helmet": "Mage Robes Hood",
+  "item.arcaneartsmod.mage_robes_chestplate": "Mage Robes Chestplate",
+  "item.arcaneartsmod.mage_robes_leggings": "Mage Robes Leggings",
+  "item.arcaneartsmod.mage_robes_boots": "Mage Robes Boots",
+  "effect.arcaneartsmod.mage_armor": "Mage Armor",
+
+  "itemgroup.arcane_arts_group": "Arcane Arts"
+}

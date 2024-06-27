@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "arcaneartsmod",
+	"version": "${version}",
+	"name": "Arcane Arts",
+	"description": "Arcane Arts",
+	"authors": [
+		"JakAtak02"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/arcaneartsmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.jakatak.arcanearts.ArcaneArts"
+		],
+		"fabric-datagen": [
+			"net.jakatak.arcanearts.ArcaneArtsDataGenerator"
+		],
+		"client": [
+			"net.jakatak.arcanearts.ArcaneArtsClient"
+		]
+	},
+	"mixins": [
+		"arcaneartsmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
