@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 5.0,
+  "group": "eitr_ore",
+  "ingredient": {
+    "item": "arcaneartsmod:eitr_ore"
+  },
+  "result": {
+    "id": "arcaneartsmod:eitr_dust"
+  }
+}
